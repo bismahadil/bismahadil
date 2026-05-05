@@ -61,9 +61,9 @@ Features:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bismahadil&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismahadil&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -73,11 +73,11 @@ Features:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/bismah-adil-51921a3b1/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/bismahadil">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
